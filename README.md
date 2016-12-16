@@ -4,7 +4,7 @@ SVG Tags
 
 > List of standard SVG tags.
 
-List built from the [SVG 1.1 specification](http://www.w3.org/TR/SVG/eltindex.html).
+List built from the [SVG 1.1 specification](http://www.w3.org/TR/SVG/eltindex.html) and [SVG 2 specification](http://www.w3.org/TR/SVG2/eltindex.html).
 
 
 ## Installation
